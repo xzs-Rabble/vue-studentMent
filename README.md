@@ -1,4 +1,5 @@
 # xzs-project-one
+node_modules文件夹请自行根据pcakage.json文件进行安装
 
 ## Project setup
 
@@ -40,13 +41,13 @@ npm run lint
 2、打开 ngix.conf 文件，配置对应的信息
 ···
 location / {
-root F:\workspaces\ProjectTest\xzs-project-one\dist;
-index index.html index.htm;
-try_files $uri $uri/ @router; #解决页面刷新 404
+  root F:\workspaces\ProjectTest\xzs-project-one\dist;
+  index index.html index.htm;
+  try_files $uri $uri/ @router; #解决页面刷新 404
 }
 
 location @router {
-rewrite ^.\*$ /index.html last; #解决 500 报错
+  rewrite ^.\*$ /index.html last; #解决 500 报错
 }
 ···
 3、检查配置文件是否配置成功
