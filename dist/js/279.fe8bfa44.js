@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkxzs_project_one"]=self["webpackChunkxzs_project_one"]||[]).push([[279],{11279:function(t,n,e){e.r(n),e.d(n,{default:function(){return i}});var s=function(){var t=this,n=t._self._c;return n("div",{staticClass:"box"},[n("div",[n("span",{staticClass:"text"},[t._v("404，找不到页面")]),n("div",[t._v("点击"),n("router-link",{attrs:{to:"/"}},[t._v("这里")]),t._v("进入首页")],1)])])},r=[],u={name:"NotFound",data(){return{}}},a=u,o=e(43736),c=(0,o.Z)(a,s,r,!1,null,"07409828",null),i=c.exports}}]);
+//# sourceMappingURL=279.fe8bfa44.js.map
