@@ -1,35 +1,14 @@
 # xzs-project-one
 node_modules文件夹请自行根据pcakage.json文件进行安装
 
-## Project setup
+## 效果图
+![屏幕截图 2022-10-11 150834](https://user-images.githubusercontent.com/114422586/195528936-22c82171-dc75-46ac-b899-053caccb0278.png)
+![屏幕截图 2022-10-11 150925](https://user-images.githubusercontent.com/114422586/195528978-ef9f7935-2d9e-4ed2-a5f4-b7d78dbebc71.png)
+![屏幕截图 2022-10-11 151012](https://user-images.githubusercontent.com/114422586/195529001-18dfe236-4607-4cc7-ab44-00d75c1f5091.png)
+![屏幕截图 2022-10-11 154042](https://user-images.githubusercontent.com/114422586/195529013-5b082112-5a42-4f05-890c-8405e1055fa6.png)
+![屏幕截图 2022-10-11 195335](https://user-images.githubusercontent.com/114422586/195529020-da6b4ae5-df30-493c-895d-587376deef42.png)
 
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-
-```
-npm run build
-```
-
-### Lints and fixes files
-
-```
-npm run lint
-```
-
-### 接口地址
-
-地址：[https://www.showdoc.com.cn/jinducasey/8321036098744323]
-密码：jinduVIP
-登录的用户名和密码符号校验规则即可
 
 ### 地图资源
 
